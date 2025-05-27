@@ -1,5 +1,5 @@
-This is an Expense Tracking website 
-This is made using React js
-vist the site at https://spsai2004.github.io/Expense-Tracker/
-Suggestions and colloborarions are invited 
+This is an Expense Tracking website <br /> 
+This is made using React js <br /> 
+vist the site at https://spsai2004.github.io/Expense-Tracker/ <br /> 
+Suggestions and colloborarions are invited <br /> 
 Thank you
